@@ -1,0 +1,4 @@
+export enum Codes {
+  DUPLICATED_KEY = 'DUPLICATED_KEY',
+  HTTP_ERROR = 'HTTP_ERROR',
+}
